@@ -1,0 +1,14 @@
+Package: VND
+Type: Package
+Title: VND model estimation and simulation
+Version: 1.0
+Date: 2020-11-23
+Author: Benjamin Eltzner, Laura Jula Vanegas
+Maintainer: Laura Jula Vanegas <ljulava@gwdg.de>
+Description: VND models a superposition of Markov chains in a HMM setting.
+License: GPL-2
+Imports: 
+    Rcpp
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.1
+Encoding: UTF-8
